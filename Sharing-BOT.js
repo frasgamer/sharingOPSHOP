@@ -10,9 +10,9 @@ A7MD.on("guildMemberAdd", member => {
   member.createDM().then(function (channel) {
   return channel.send(` 
 **
-~~
+
 OP SHOP يرحب بكم :dove:
-~~
+
 ممكن صدفة تخلق صحبة
 تنورنا يالغالي بسيرفرك 
 السيرفر عبارة عن شوب وانا امنيتي انجح 
